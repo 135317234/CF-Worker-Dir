@@ -15,7 +15,8 @@ header {
 
 #head {
 /*   background-image: linear-gradient(to top, #537895 0%, #09203f 100%); */
-  background: url(https://tucang.cc/api/image/show/6d3078b64312df78ef907ae26c4f0b02) no-repeat center top scroll;
+/*   background: url(https://tucang.cc/api/image/show/6d3078b64312df78ef907ae26c4f0b02) no-repeat center top scroll; */
+   background-image: url(https://tucang.cc/api/image/show/6d3078b64312df78ef907ae26c4f0b02
   
 }
 
